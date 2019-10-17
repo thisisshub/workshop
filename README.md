@@ -3,4 +3,4 @@
 presentation at here: https://gitpitch.com/thisisshub/thisisshub.github.io
 
 # Name
-Shubhansu Jain
+kirti hirani
